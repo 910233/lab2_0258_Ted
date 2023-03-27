@@ -118,7 +118,7 @@ function Todo(){
                                 todo={item}
                                 key={index}
                                 setState={setTodo}
-                                state={Todo}
+                                state={todo}
                             />
                 })}
             </Box>
